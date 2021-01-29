@@ -1,0 +1,15 @@
+/*
+ * CSCI 2170: ONLINE EDITION, WINTER 2021
+ * STARTER CODE FOR ASSIGNMENT 2
+ * 
+ * This code was created by Dr. Raghav V. Sampangi (raghav@cs.dal.ca)
+ * If you would like to add any additional CSS in your code, use this CSS file.
+ */
+ 
+footer {
+	margin-top: 20em;
+}
+
+.space-above-below {
+	margin: 2em 0;
+}
